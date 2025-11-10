@@ -222,7 +222,9 @@
         el.querySelector('[data-action="delete"]').addEventListener('click',()=>{
           // convert render index back to original index in storage
           const originalIndex = logs.length - 1 - idx;
+          if(confirm('Are you sure you want to delete this log?')){
           deleteLog(originalIndex);
+        }
         });
         logsDiv.appendChild(el);
       });
