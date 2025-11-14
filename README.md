@@ -17,7 +17,7 @@ This 60-day plan helps you master **Dart + Flutter** through a step-by-step appr
 
 | Day | Date | Topic / Task | Progress |
 |-----|------|---------------|----------|
-| 1 | Nov 13 | Introduction to programming & Dart setup | |
+| 1 | Nov 13 | Introduction to programming & Dart setup | Done |
 | 2 | Nov 14 | Variables, data types, print, input/output | |
 | 3 | Nov 15 | Operators & conditions (if/else, switch) | |
 | 4 | Nov 16 | Loops (for, while, do-while) | |
